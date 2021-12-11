@@ -1,0 +1,2 @@
+# android_camera
+Takec_androidで開発中のコードから自分が担当した部分を抜粋(許可取得済)
