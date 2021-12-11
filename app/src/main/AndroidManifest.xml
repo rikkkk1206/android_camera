@@ -32,6 +32,14 @@
         </provider>
 
         <activity
+            android:name=".camera.SelectMethodActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Android_camera.NoActionBar" />
+        <activity
+            android:name=".camera.CreatedImageActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Android_camera.NoActionBar" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

@@ -1,4 +1,5 @@
 <resources>
+    <string name="app_name">android_camera</string>
     <string name="camera_fragment_name">CameraFragment</string>
     <string name="todo_cancel_button">キャンセル</string>
     <string name="album">アルバム</string>

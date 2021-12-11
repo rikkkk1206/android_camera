@@ -3,10 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/nakad/android_camera/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.22135416666666666" />
         <entry key="..\:/Users/nakad/android_camera/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/nakad/android_camera/app/src/main/res/layout/camera_fragment.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/nakad/android_camera/app/src/main/res/layout/fragment_3.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/nakad/android_camera/app/src/main/res/layout/response_image_display.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/nakad/android_camera/app/src/main/res/layout/select_picture_method.xml" value="0.20520833333333333" />
       </map>
     </option>
   </component>

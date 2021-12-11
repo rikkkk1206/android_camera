@@ -7,6 +7,7 @@ import android.net.Uri
 import android.os.Build
 import android.util.Base64
 import androidx.core.content.FileProvider
+import com.example.android_camera.BuildConfig
 import java.io.ByteArrayOutputStream
 import java.io.File
 import java.io.FileOutputStream
@@ -54,7 +55,7 @@ class BitmapUtility {
         fileOutputStream?.close()
 
         // ファイルからcontent://スキーマ形式のuriを取得する
-        return FileProvider.getUriForFile(thisCon, "com.example.android_camera.camera.provider", file)
+        return FileProvider.getUriForFile(thisCon, BuildConfig.APPLICATION_ID + ".provider", file)
     }
 }
 //Bitmap.createScaledBitmap(bitmap, 256, 256, true)
