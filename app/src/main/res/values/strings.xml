@@ -1,0 +1,14 @@
+<resources>
+    <string name="camera_fragment_name">CameraFragment</string>
+    <string name="todo_cancel_button">キャンセル</string>
+    <string name="album">アルバム</string>
+    <string name="select_picture">画像を選択</string>
+    <string name="camera_method">カメラ</string>
+    <string name="album_method">画像</string>
+    <string name="create_image">作成</string>
+    <string name="back_to_frg3">戻る</string>
+    <string name="success_creating_image">画像を作成しました</string>
+    <string name="create_image_panel">パネル化</string>
+    <string name="create_image_bin">二値化</string>
+    <string name="create_image_invert">反転</string>
+</resources>
